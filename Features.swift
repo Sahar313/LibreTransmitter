@@ -19,7 +19,7 @@ public final class Features {
     static public var glucoseSettingsRequireAuthentication = false
     static public var alarmSettingsViewRequiresAuthentication = false
     
-    static public var allowsEditingFactoryCalibrationData = false
+    static public var allowsEditingFactoryCalibrationData = true
     
     // Only to be used with this program, running on a linux amd64 system or rasberry pi
     // https://github.com/tzachi-dar/gatt#this-is-a-program-for-creating-a-simulation-for-libre-2-for-xdrip
